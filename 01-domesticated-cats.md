@@ -23,3 +23,8 @@ Cats use a variety of vocalizations, body language, and facial expressions to co
 Read more: [[communication-and-socialization]]
 
 Cat body language: [[communication-and-socialization#Body Language]]
+
+## Internal Link
+
+[[##Cat Communication]]
+[[##Variety of Cat Breeds]]
